@@ -8,3 +8,8 @@
         hardhat:在将 Ethereum 合约部署到公共账本并产生实际成本之前，使用 Hardhat 工具套件对其进行测试。开发人员可在本地进行开发，以便于其工作
         openzeppelin:使用 OpenZeppelin 工具编写、部署和操作去中心化应用程序。 OpenZeppelin 提供了两个产品：合约库和 SDK。 在此模块中
 
+    1.创建文件夹，初始化项目npm init
+    2.hardhat npm install --save-dev hardhat
+    3.使用hardhat创建 npx hardhat init
+
+
